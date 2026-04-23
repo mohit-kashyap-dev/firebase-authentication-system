@@ -1,21 +1,36 @@
-<<<<<<< HEAD
-# React + Vite
+# 🔐 Firebase Authentication System
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A secure authentication system built with React.js and Firebase, enabling user signup, login, and protected access to application routes.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🚀 Features
 
-## React Compiler
+- User signup and login using Firebase Authentication
+- Protected routes for authenticated users
+- Form validation with error handling
+- Persistent user session management
+- Responsive UI with clean design
 
-The React Compiler is currently not compatible with SWC. See [this issue](https://github.com/vitejs/vite-plugin-react/issues/428) for tracking the progress.
+---
 
-## Expanding the ESLint configuration
+## 🛠️ Tech Stack
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
-=======
-# firebase-authentication-system
-A secure authentication system built with React.js and Firebase Authentication, supporting login/signup, protected routes, and user session management with responsive UI.
->>>>>>> 796df57619586de66c548ea6e4613e7764867191
+- React.js
+- JavaScript (ES6+)
+- Firebase Authentication
+- React Router
+- Bootstrap
+- Vite
+
+---
+
+## 🔗 Live Demo
+
+...
+
+---
+
+## 📌 Overview
+
+This project demonstrates implementation of secure authentication flows, protected routing, and user session management using Firebase in a React application.
